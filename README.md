@@ -83,6 +83,7 @@ If you are attacked, experts recommend these steps:
 1. Restart. Use Windows Safe Mode when restarting.
 2. Scan. Click on any antivirus program you have and run as many tests and cleanup functions as possible.
 3. Restore. If you still can't access the files, roll back to your last saved version.
+
 If the malware originates from the server, any steps one takes will not help. If your entire company's system is down, the IT team must step in to fix the problem. All users must be logged off while the IT team cleans viruses and restores files.
 
 ![Screen Shot](./Image/second.jpg)
