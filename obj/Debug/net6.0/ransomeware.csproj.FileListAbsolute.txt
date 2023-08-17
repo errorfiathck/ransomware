@@ -1,0 +1,15 @@
+/home/error/Desktop/error/C#/ransomeware/bin/Debug/net6.0/ransomeware
+/home/error/Desktop/error/C#/ransomeware/bin/Debug/net6.0/ransomeware.deps.json
+/home/error/Desktop/error/C#/ransomeware/bin/Debug/net6.0/ransomeware.runtimeconfig.json
+/home/error/Desktop/error/C#/ransomeware/bin/Debug/net6.0/ransomeware.dll
+/home/error/Desktop/error/C#/ransomeware/bin/Debug/net6.0/ransomeware.pdb
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.csproj.AssemblyReference.cache
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.GeneratedMSBuildEditorConfig.editorconfig
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.AssemblyInfoInputs.cache
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.AssemblyInfo.cs
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.csproj.CoreCompileInputs.cache
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.dll
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/refint/ransomeware.dll
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.pdb
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ransomeware.genruntimeconfig.cache
+/home/error/Desktop/error/C#/ransomeware/obj/Debug/net6.0/ref/ransomeware.dll

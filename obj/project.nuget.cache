@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/73VmYFBY9Z2U9VEUSE4GdnG9Leu2E62IFEviFSfzpXpGmwZ8SfBcOS9B3aMhT7ogeolS8lrlLZ/3DDHsTtUfQ==",
+  "success": true,
+  "projectFilePath": "/home/error/Desktop/error/C#/ransomeware/ransomeware.csproj",
+  "expectedPackageFiles": [
+    "/home/error/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/error/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/error/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
