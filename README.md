@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ShaanCoding/ReadME-Generator">
+  <a href="https://github.com/errorfiathck/">
     <img src="./Image/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
